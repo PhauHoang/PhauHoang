@@ -22,5 +22,15 @@ namespace PhauHoang
             string ten = txtten.Text;
             MessageBox.Show(ten);
         }
+
+        private void txtten_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
